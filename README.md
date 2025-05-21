@@ -1,6 +1,4 @@
 
-
-````markdown
 # Weather App ☁️🌤️
 
 A full-stack weather application built with **Next.js** (frontend) and **Laravel** (backend). It allows users to search weather conditions by city or geolocation.
