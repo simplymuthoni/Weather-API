@@ -158,19 +158,3 @@ php artisan test
 
 ---
 
-## 📄 License
-
-MIT
-
-```
-
----
-
-Let me know if you’d like:
-- Badges (build status, license, etc.)
-- Docker setup instructions
-- GitHub deployment workflow  
-- Screenshots section
-
-I'll help polish it further.
-```
