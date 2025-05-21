@@ -25,7 +25,6 @@ It fetches weather data from the Laravel backend API and displays current weathe
 
 ## 📦 Installation
 
-```bash
 git clone https://github.com/your-username/weather-frontend.git
 cd weather-frontend
 npm install
